@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Myself:
 I'm doing my third year of Graduation.<br>I'm currently working on a Project for Mute & Deaf Community.<br>I like coding and very fond towards Python programming.<br>
 
 
