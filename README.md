@@ -1,6 +1,6 @@
 # 💫 About Myself:
 I'm doing my third year of Graduation.<br>I'm currently working on a Project for Mute & Deaf Community.<br>I like coding and very fond towards Python programming.<br>
-![Screenshot 2023-07-17 171826](https://github.com/Rupa-Rd/Rupa-Rd/assets/102663541/89178168-adb8-415c-a18f-23759b44aaba)
+
 
 
 ## 🌐 Socials:
