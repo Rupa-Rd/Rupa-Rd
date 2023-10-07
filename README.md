@@ -6,7 +6,7 @@ I'm doing my third year of Graduation.<br>I'm currently working on a Project for
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roopa-dharshini-104526239) 
 
-# 🌏 OpenSource Badges
+# 🌏 HackotoberFest Badges
 [![An image of @rupard's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rupard)](https://holopin.io/@rupard)
 
 # 💻 Tech Stack:
