@@ -15,7 +15,7 @@ I'm doing my third year of Graduation.<br>I'm currently working on a Project for
 ![](https://github-readme-stats.vercel.app/api?username=Rupa-Rd&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rupa-Rd&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupa-Rd&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![Rupa-Rd's GitHub | Dependencies](https://stats.quine.sh/Rupa-Rd/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Rupa-Rd)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rupa-Rd&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
 
