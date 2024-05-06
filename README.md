@@ -1,5 +1,12 @@
 # 💫 About Myself:
-I'm doing my third year of Graduation.<br>I'm currently working on a Project for Mute & Deaf Community.<br>I like coding and very fond towards Python programming.<br>
+Passionate and motivated computer science engineering student with a strong academic background and a passion for learning new technologies. Seeking an internship to gain hands-on experience in software development and to learn from experienced engineers.
+
+Skills
+Web Development: Html, Css, Javascript, React, Node, Api, Auth0
+Programming languages: Python, Java, C/C++
+Software development tools: Git, GitHub
+Cloud computing platforms: GCP, AWS, Azure
+Databases: MySQL, MySQL Workbench
 
 
 
