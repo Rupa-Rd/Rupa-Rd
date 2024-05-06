@@ -1,17 +1,15 @@
 # 💫 About Myself:
 Passionate and motivated computer science engineering student with a strong academic background and a passion for learning new technologies. Seeking an internship to gain hands-on experience in software development and to learn from experienced engineers.
 
-Skills
-Web Development: Html, Css, Javascript, React, Node, Api, Auth0
-Programming languages: Python, Java, C/C++
-Software development tools: Git, GitHub
-Cloud computing platforms: GCP, AWS, Azure
-Databases: MySQL, MySQL Workbench
+Skills <br>
+Web Development: Html, Css, Javascript, React, Node, Api, Auth0<br>
+Programming languages: Python, Java, C/C++<br>
+Software development tools: Git, GitHub<br>
+Cloud computing platforms: GCP, AWS, Azure<br>
+Databases: MySQL, MySQL Workbench<br>
 
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roopa-dharshini-104526239) 
 
 # 🌏 HackotoberFest Badges
 [![An image of @rupard's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rupard)](https://holopin.io/@rupard)
