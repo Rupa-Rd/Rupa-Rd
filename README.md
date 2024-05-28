@@ -1,3 +1,5 @@
+![GitHub Readme greeting](https://github.com/Rupa-Rd/Rupa-Rd/assets/102663541/3bfd21ab-efac-45c9-83aa-871d9a0360f8)
+
 # 💫 About Myself:
 Passionate and motivated computer science engineering student with a strong academic background and a passion for learning new technologies. Seeking an internship to gain hands-on experience in software development and to learn from experienced engineers.
 
@@ -8,7 +10,7 @@ Software development tools: Git, GitHub<br>
 Cloud computing platforms: GCP, AWS, Azure<br>
 Databases: MySQL, MySQL Workbench<br>
 
-
+![Metrices](https://metrics.lecoq.io/Rupa-Rd?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 
 # 🌏 HackotoberFest Badges
