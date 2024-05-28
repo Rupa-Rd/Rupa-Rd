@@ -25,6 +25,9 @@ Databases: MySQL, MySQL Workbench<br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> MySQL</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> Git</code>
 
+# Blog post:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rupa-Rd&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
