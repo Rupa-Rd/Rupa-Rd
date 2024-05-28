@@ -10,7 +10,7 @@ Software development tools: Git, GitHub<br>
 Cloud computing platforms: GCP, AWS, Azure<br>
 Databases: MySQL, MySQL Workbench<br>
 
-![Metrices](https://metrics.lecoq.io/Rupa-Rd?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
 
 
 # 🌏 HackotoberFest Badges
