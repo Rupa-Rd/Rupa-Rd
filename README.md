@@ -27,6 +27,10 @@ Databases: MySQL, MySQL Workbench<br>
 
 # Blog post:
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript concepts for React JS ⚛️](https://rupard.hashnode.dev/javascript-concepts-for-react-js)
+- [Text Summarization App using Hugging Face 🤗](https://rupard.hashnode.dev/text-summarization-app-using-hugging-face)
+- [Must know concepts in Bootstrap!!](https://rupard.hashnode.dev/must-know-concepts-in-bootstrap)
+- [How to create our own npm package and publish it?](https://rupard.hashnode.dev/how-to-create-our-own-npm-package-and-publish-it)
 <!-- BLOG-POST-LIST:END -->
 
 # 📊 GitHub Stats:
