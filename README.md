@@ -17,6 +17,8 @@ Databases: MySQL, MySQL Workbench<br>
 [![An image of @rupard's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rupard)](https://holopin.io/@rupard)
 
 # Tech Stack
+<code><img height="20" src="/tech-stack/html.png"> Html</code>
+<code><img height="20" src="/tech-stack/css.png"> CSS</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> JavaScript</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"> Firebase</code>
