@@ -1,6 +1,6 @@
 ![GitHub Readme greeting](https://github.com/Rupa-Rd/Rupa-Rd/assets/102663541/3bfd21ab-efac-45c9-83aa-871d9a0360f8)
 
-# 💫 About Myself:
+# 💫 About Me:
 Passionate and motivated computer science engineering student with a strong academic background and a passion for learning new technologies. Seeking an internship to gain hands-on experience in software development and to learn from experienced engineers.
 
 Skills <br>
