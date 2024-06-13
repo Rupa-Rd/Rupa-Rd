@@ -28,12 +28,15 @@ I am a
 
 <!-- Socials -->
 # Connect with me
-<a href="#" > <code><img height="20" src=""> LinkedIn</code> <a/>
-<a href="#" > <code><img height="20" src=""> HashNode</code> <a/>
-<a href="#" > <code><img height="20" src=""> Link Tree</code> <a/>
-<a href="#" > <code><img height="20" src=""> Hacker Rank</code> <a/>
-<a href="#" > <code><img height="20" src=""> LeetCode</code> <a/>
-<a href="#" > <code><img height="20" src=""> Code Chef</code> <a/>
+<a href="https://rupa-rd.github.io/portfolio.rd/" > 
+  <code><img height="20" src="/socials/portfolio.png"> Portfolio</code> 
+<a/>
+<a href="https://www.linkedin.com/in/roopa-dharshini-104526239/" > <code><img height="20" src="/socials/linkedin.png"> LinkedIn</code> <a/>
+<a href="https://hashnode.com/@Rd23" > <code><img height="20" src="/socials/hashnode.png"> HashNode</code> <a/>
+<a href="https://linktr.ee/roopa_rd" > <code><img height="20" src="/socials/linktree.png"> Link Tree</code> <a/>
+<a href="https://www.hackerrank.com/profile/RA2111003020345" > <code><img height="20" src="/socials/hackerrank.png"> Hacker Rank</code> <a/>
+<a href="https://leetcode.com/u/user0207t/" > <code><img height="20" src="/socials/leetcode.png"> LeetCode</code> <a/>
+<a href="https://www.codechef.com/users/r00pa23" > <code><img height="20" src="/socials/codechef.png"> Code Chef</code> <a/>
 
 
 
