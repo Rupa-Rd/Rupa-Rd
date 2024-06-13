@@ -26,6 +26,18 @@ I am a
 <code><img height="20" src="/tech-stack/azure.png"> Azure</code>
 <code><img height="20" src="/tech-stack/gcp.png"> Google Cloud</code>
 
+<!-- Socials -->
+# Connect with me
+<a href="#" > <code><img height="20" src=""> LinkedIn</code> <a/>
+<a href="#" > <code><img height="20" src=""> HashNode</code> <a/>
+<a href="#" > <code><img height="20" src=""> Link Tree</code> <a/>
+<a href="#" > <code><img height="20" src=""> Hacker Rank</code> <a/>
+<a href="#" > <code><img height="20" src=""> LeetCode</code> <a/>
+<a href="#" > <code><img height="20" src=""> Code Chef</code> <a/>
+
+
+
+
 # Blog post
 <!-- BLOG-POST-LIST:START -->
 - [JavaScript concepts for React JS ⚛️](https://rupard.hashnode.dev/javascript-concepts-for-react-js)
@@ -37,6 +49,8 @@ I am a
 <!-- Hackotober Fest badge -->
 # HackotoberFest Badges
 [![An image of @rupard's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rupard)](https://holopin.io/@rupard)
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rupa-Rd&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
