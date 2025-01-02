@@ -49,13 +49,6 @@ I am a
 - [How to create our own npm package and publish it?](https://rupard.hashnode.dev/how-to-create-our-own-npm-package-and-publish-it)
 <!-- BLOG-POST-LIST:END -->
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-</div>
-
 <!-- Hackotober Fest badge -->
 # HackotoberFest Badges
 [![An image of @rupard's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rupard)](https://holopin.io/@rupard)
